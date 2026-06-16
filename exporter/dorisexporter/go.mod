@@ -19,6 +19,7 @@ require (
 
 require (
 	github.com/cenkalti/backoff/v5 v5.0.3
+	github.com/cenkalti/backoff/v6 v6.0.1
 	github.com/google/uuid v1.6.0
 	go.opentelemetry.io/collector/component/componenttest v0.154.1-0.20260612191519-af182d232650
 	go.opentelemetry.io/collector/config/confighttp v0.154.1-0.20260612191519-af182d232650
